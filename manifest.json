@@ -1,13 +1,27 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "CAT COUNTDOWN 2026",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "CAT 2026",
-  "start_url": "/",
-  "theme_color": "#11100f",
+  "description": "A daily countdown to CAT 2026",
   "id": "cat-countdown-2026",
-  "description": "A daily countdown to Cat 2026"
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#11100f",
+  "theme_color": "#11100f",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
