@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CAT COUNTDOWN 2026",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CAT 2026",
+  "start_url": "/",
+  "theme_color": "#11100f",
+  "id": "cat-countdown-2026",
+  "description": "A daily countdown to Cat 2026"
+}
